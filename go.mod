@@ -1,3 +1,3 @@
-module github.com/emomovg/http/v1
+module github.com/emomovg/http
 
 go 1.22
